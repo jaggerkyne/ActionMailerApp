@@ -1,4 +1,4 @@
-== README
+###README
 
 This is an simple app that utilizes mandrill smtp server to deliver automatic email to the user when:
 
@@ -7,5 +7,4 @@ This is an simple app that utilizes mandrill smtp server to deliver automatic em
 
 This app use ActiomMailer and mandrill Smtp server to achieve this goal.
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+The live version of this app is at [here](https://rocky-headland-2382.herokuapp.com/).
