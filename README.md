@@ -7,4 +7,4 @@ This is an simple app that utilizes mandrill smtp server to deliver automatic em
 
 This app use ActiomMailer and mandrill Smtp server to achieve this goal.
 
-The live version of this app is at [here](https://rocky-headland-2382.herokuapp.com/).
+[Take a look on the live version of this app.](https://rocky-headland-2382.herokuapp.com/)
