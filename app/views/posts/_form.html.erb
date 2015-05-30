@@ -1,0 +1,7 @@
+<%= simple_form_for(@post) do |f| %>
+  <%= f.error_notification %>
+    <%= f.input :title, placeholder: "Title of the post.", label: false %>  
+    <%= f.input :content, placeholder: "Please enter something.", label: false %>  
+    <%= f.button :submit, class: "btn btn-primary btn-block" %>
+  
+<% end %>

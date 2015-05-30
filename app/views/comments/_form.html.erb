@@ -1,0 +1,5 @@
+<%= simple_form_for([@post,@post.comments.build],html: {class: "form-sign-in"}) do |f| %>
+
+<%= f.text_area :content, class: "form-control", rows: "4"%>
+<%= f.button :submit, class: "btn btn-primary btn-block" %>
+<% end %>
